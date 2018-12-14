@@ -11,7 +11,6 @@
  * @return {boolean}
  */
 var isSameTree = function(p, q) {
-    console.log(q)
     if(!p&&!q){
         return true;
     }
